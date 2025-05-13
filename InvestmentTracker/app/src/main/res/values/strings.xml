@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Plutus</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Investment Tracker</string>
+    <string name="msg_no_investment">No investment record found!</string>
+    <string name="new_investment_title">Add New Investment</string>
+    <string name="edit_investment_title">Edit Investment</string>
+    <string name="hint_enter_investment_name">Name<font color="#ff0000"> *</font></string>
+    <string name="hint_enter_investment_amount">Amount<font color="#ff0000"> *</font></string>
+    <string name="hint_enter_interest_percent">Interest Percent?</string>
+    <string name="hint_enter_investment_medium">Through some bank or investing app?</string>
+    <string name="label_enter_investment_medium">How did you invest?<font color="#ff0000"> *</font></string>
+    <string name="hint_enter_investment_category">Investment Category/Sector<font color="#ff0000"> *</font></string>
+    <string name="hint_enter_investment_number_of_units">Number Of Units Held</string>
+    <string name="hint_enter_investment_price_per_unit">What Was Price Per Unit?</string>
+    <string name="hint_enter_investment_date">When Did You Invest?</string>
+    <string name="hint_enter_investment_month">Amount Of Time(in Months)</string>
+    <string name="delete">Delete</string>
+    <string name="graph_fragment">Graph Fragment to be designed here!!!</string>
+    <string name="not_mentioned">Not mentioned</string>
+    <string name="undo">UNDO</string>
+    <string name="toast_message_no_detail">No more information to show. You can long press on this investment and add some more details!</string>
+    <string name="total_amount_of_investment">Total Invested: </string>
+    <string name="currency">Currency: </string>
+    <string name="mainpage">MainPage</string>
+    <string name="graphs">Graphs</string>
+    <string name="settings">Settings</string>
+    <string name="select_investment_category">Select Investment Category:</string>
+    <string name="select_category">Select Category</string>
+    <string name="rs">\u20B9</string>
+    <string name="dollarSign">\$</string>
+    <string name="arrow">\u2794</string>
+    <string name="usd">USD</string>
+    <string name="inr">INR</string>
+    <string name="update">update</string>
+    <string name="save">save</string>
+    <string name="cancel">Cancel</string>
+    <string name="sampletext"><font size="17">Please send your feedbacks or issues at <b>developer@soumikshah.com</b></font>\n\n
+    <font size="8">This app uses no internet connection and uses just one permission i.e. read and write to storage.
+        That permission is required for exporting your data as an excel file.</font>
+    <font size="12">\n\nJust to be clear, this application is not a portfolio tracker.
+        It is an easy way to track how much money you\'ve invested over the years and where.</font>
+    </string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="mainpage_viewpager_name">Home</string>
+    <string name="setttings_viewpager_name">Settings</string>
+    <string name="error_msg_auth_error">Error with the fingerprint. Please try again!</string>
+    <string name="error_msg_auth_failed">Authentication failed! Please try again!</string>
+    <string name="auth_title">Authentication Required</string>
+    <string name="auth_subtitle">Use your fingerprint to unlock Plutus - Investment Tracker</string>
+    <string name="auth_description">We want to keep your financials safe from unauthorized users,
+         So only users who know the pin or have registered fingerprints on this phone can open this application.</string>
+    <string name="error_msg_no_biometric_hardware">Your phone doesn\'t support fingerprint scanner</string>
+    <string name="error_msg_biometric_hw_unavailable">No fingerprint scanner available</string>
+    <string name="error_msg_biometric_not_setup">No fingerprints are registered on your phone</string>
+    <string name="fingerprint_negative_button_error_text">You rejected use of fingerprint. You need to authenticate yourself to use this app(This feature will be opt-in in future).</string>
+    <string name="export_as_excel"><font size="21">Export Data</font>\n<font size="11">Send all your information as an excel file</font></string>
+    <string name="import_data_as_excel">Import Data As Excel Sheet</string>
+    <string name="appwidget_text">Investment Tracker</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is a widget for Investment tracker. Track your portfolio here.</string>
+    <string name="total_amount_invested">Total Invested:</string>
+    <string name="delete_investment_title">Do you want to delete this investment data forever?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="select_currency_text">This application allows you to track investments made in two different currencies.</string>
+    <string name="currency_1">Currency</string>
+    <string name="currency_2">Currency 2</string>
+    <string name="next">Next </string>
+    <string name="set_second_currency"><font size="21">Set Second Currency</font>\n<font size="11">You can set your second currency here</font></string>
+    <string name="app_description"><b>This application will help you to track all your investments in one place.</b>
+        \nWe\'re not portfolio tracker, we won\'t show you daily ups and downs.
+        We help you keep track of money moving out of your account into different types of investments.
+        \n\n<font size="22"><b>This application uses no internet connection.</b></font>
+        \n\nAnd asks for just one permission i.e. read and write to storage.
+        That permission is required for exporting your data as an excel file.
+        \n\n If you have any feedback or bug report please contact me using any of the options from below.
+    </string>
+    <string name="about_us"><font size="21">About Us</font> \n<font size="11">Know more about the app and its developer</font></string>
+    <string name="linkedIn"><a href="https://www.linkedin.com/in/soumikshah">LinkedIn</a></string>
+    <string name="welcome_to_plutus">Welcome To Plutus</string>
+    <string name="welcome_message_description">We will try to make it easier for you to remember your investment</string>
+</resources>
